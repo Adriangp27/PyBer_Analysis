@@ -46,6 +46,10 @@ $16.57 Average Fare per Driver
 ![Fig3](https://user-images.githubusercontent.com/99752443/162572917-7882180e-247d-4b80-a38e-ce68350deb9a.png)
 ![Fig4](https://user-images.githubusercontent.com/99752443/162572919-c53abdbb-b7d4-475b-bc00-8bd7eec56b6f.png)
 ![Fig5](https://user-images.githubusercontent.com/99752443/162572921-05fdc267-9784-4fa0-b0c7-e984b57d0e75.png)
+![Fig6](https://user-images.githubusercontent.com/99752443/162572991-42ea398e-6072-4ee1-ac94-0f36384bc38a.png)
+![Fig7](https://user-images.githubusercontent.com/99752443/162572993-24cb7d6a-58e0-48b3-95e3-375828998235.png)
+![Fig7](https://user-images.githubusercontent.com/99752443/162572995-901f0281-4612-410a-9bd7-0473b4e9c57e.png)
+
 
 In light of the current summary and the fare trends this indicates that the urban markets have the higher number of rides, while the rural markers have the lowest number. As shown in the pie chart below, this is also reflected in the percentage of fares by each city type. Rural markets may have the fewer rides, but their average fares are the highest, because rural customers are generally travelling a greater distance than their urban and suburban counterparts. Additionally, the number of drivers reflects the demand for each city type, especially in urban markets with more drivers than rides.
 
