@@ -40,7 +40,12 @@ $24.53 Average Fare per Ride
 $16.57 Average Fare per Driver
 
 
-
+![Pyber_fare_summary](https://user-images.githubusercontent.com/99752443/162572877-29269872-f266-42c7-bf65-a80aec4fcee2.png)
+![Fig1](https://user-images.githubusercontent.com/99752443/162572906-a77fa355-365c-4d66-9aca-65ba29ca5bb6.png)
+![Fig2](https://user-images.githubusercontent.com/99752443/162572907-c51ab7f1-6f6d-4f99-a195-eafaa80129f9.png)
+![Fig3](https://user-images.githubusercontent.com/99752443/162572917-7882180e-247d-4b80-a38e-ce68350deb9a.png)
+![Fig4](https://user-images.githubusercontent.com/99752443/162572919-c53abdbb-b7d4-475b-bc00-8bd7eec56b6f.png)
+![Fig5](https://user-images.githubusercontent.com/99752443/162572921-05fdc267-9784-4fa0-b0c7-e984b57d0e75.png)
 
 In light of the current summary and the fare trends this indicates that the urban markets have the higher number of rides, while the rural markers have the lowest number. As shown in the pie chart below, this is also reflected in the percentage of fares by each city type. Rural markets may have the fewer rides, but their average fares are the highest, because rural customers are generally travelling a greater distance than their urban and suburban counterparts. Additionally, the number of drivers reflects the demand for each city type, especially in urban markets with more drivers than rides.
 
