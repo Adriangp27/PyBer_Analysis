@@ -12,7 +12,7 @@ Among the two sets of data, city and ride, Pyber, a ride sharing company, requir
 
 ## Resources
 -Data Source: city_data.csv, ride_data.csv
--Software: Python 3.9.7, Anaconda 2020.11, Jupyter Notebook 6.4.5
+-Software: Python 3.9.7, Anaconda 2021.03, Jupyter Notebook 6.4.5
 
 ## Results
 ### Rural
